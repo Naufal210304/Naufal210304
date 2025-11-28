@@ -1,4 +1,4 @@
-## Hi there 👋
+![Header](./img/Git-Banner.png)
 
 <!--
 **Naufal210304/Naufal210304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
